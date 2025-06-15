@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-<div align="center">
+<div align="left">
   <p>
     Sou um desenvolvedor full stack com paixão por criar soluções tecnológicas inovadoras. Com experiência em várias tecnologias de front-end e back-end, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Adoro colaborar com outras pessoas e acredito que o melhor trabalho é feito em equipe.
   </p>
@@ -142,7 +142,7 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex;">
   <img 
     align="left" 
     alt="GitHub Stats" 
