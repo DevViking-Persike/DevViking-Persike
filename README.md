@@ -72,6 +72,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+  <img align="left" alt="Node" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
   <img align="left" alt="Angular" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 <img 
     align="left" 
@@ -144,7 +146,6 @@
   <img align="left" alt="Nignx" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
   <img align="left" alt="Rabbitmq" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
   <img align="left" alt="Csharp" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="left" alt="Node" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <br/>
 <br/>
 
