@@ -158,7 +158,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcpersike&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p><br/>
 <div align="left"> 
   <a href="https://www.youtube.com/channel/UCyViC3FUfN-AwCEwrFLUNqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vcpersike/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
