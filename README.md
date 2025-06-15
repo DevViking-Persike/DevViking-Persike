@@ -45,7 +45,6 @@
     alt="HTML"
     title="HTML" 
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -54,7 +53,6 @@
     alt="CSS" 
     title="CSS"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -63,7 +61,6 @@
     alt="JavaScript" 
     title="JavaScript"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -72,7 +69,6 @@
     alt="TypeScript"
     title="TypeScript" 
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -84,7 +80,6 @@
     alt="React"
     title="React" 
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -93,7 +88,6 @@
     alt="Next.js" 
     title="Next.js"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -102,7 +96,6 @@
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -111,7 +104,6 @@
     alt="Tailwind" 
     title="Tailwind"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -120,7 +112,6 @@
     alt="SASS" 
     title="SASS"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -129,12 +120,11 @@
     alt="JQuery" 
     title="JQuery"
     width="30px"
-    heigth="16px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img align="left" alt="Nestjs" style="padding-right: 10px;" heigth="16px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-<img align="left" alt="Jest" style="padding-right: 10px;" heigth="16px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img align="left" alt="Nestjs" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+<img align="left" alt="Jest" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img 
     align="left" 
     alt="Git" 
