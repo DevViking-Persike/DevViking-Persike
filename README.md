@@ -123,6 +123,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
+<img align="left" alt="Nestjs" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+<img align="left" alt="Jest" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img 
     align="left" 
     alt="Git" 
@@ -139,13 +141,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
- <img align="left" alt="Jest" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="left" alt="Kubernetes" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="left" alt="Dotnetcore" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="left" alt="Nestjs" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="left" alt="Nignx" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
-  <img align="left" alt="Rabbitmq" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="left" alt="Csharp" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" alt="Kubernetes" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img align="left" alt="Dotnetcore" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+<img align="left" alt="Csharp" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" alt="Nignx" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
+<img align="left" alt="Rabbitmq" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
 <br/>
 <br/>
 
