@@ -1,174 +1,117 @@
-# 👩🏻‍💻 Victor Persike
+<div align="center">
 
-**`Desenvolvedora FullStack`**
+<!-- Header animado -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Victor+Persike;FullStack+Developer+%7C+DevViking)](https://git.io/typing-svg)
 
-<div align="left">
-  <p>
-    Sou um desenvolvedor full stack com paixão por criar soluções tecnológicas inovadoras. Com experiência em várias tecnologias de front-end e back-end, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. Adoro colaborar com outras pessoas e acredito que o melhor trabalho é feito em equipe.
-  </p>
-  <p>
-    Quando não estou codificando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos de código aberto ou compartilhando conhecimento com a comunidade.
-  </p>
-</div>
- <div align="left"> 
-  <a href="https://www.youtube.com/channel/UCyViC3FUfN-AwCEwrFLUNqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vcpersike/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/qzV7fBpK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "vcpersike@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-persike-78515b71/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DevViking-Persike&style=for-the-badge&color=70A5FD&label=VISITORS)](https://github.com/DevViking-Persike)
+[![Stars](https://custom-icon-badges.demolab.com/github/stars/DevViking-Persike?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars)](https://github.com/DevViking-Persike?tab=repositories&sort=stargazers)
+[![Followers](https://custom-icon-badges.demolab.com/github/followers/DevViking-Persike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/DevViking-Persike?tab=followers)
 
 </div>
-
-<p align="left"> 
-    <a href="https://github.com/DevViking-Persike?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DevViking-Persike?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DevViking-Persike?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DevViking-Persike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-  <img align="left" alt="Node" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+```typescript
+const victor: Developer = {
+    pronouns: "He" | "Him",
+    location: "Brasil",
+    role: "Full Cycle Developer",
+    company: "Gamboa Solutions",
+    stack: {
+        frontend: ["Angular", "React", "Next.js", "TypeScript", "Maui/Blazor"],
+        backend: [".NET Core", "Node.js", "NestJS", "Python"],
+        database: ["MySQL", "PostgreSQL", "MongoDB"],
+        devOps: ["Docker", "Kubernetes", "Nginx", "CI/CD"],
+        messaging: ["RabbitMQ"],
+    },
+    currentFocus: "Arquitetura de software & AI/ML",
+    funFact: "Viking por natureza, dev por paixao"
+};
+```
 
-  <img align="left" alt="Angular" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img align="left" alt="Nestjs" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-<img align="left" alt="Jest" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    heigth="16px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img align="left" alt="Kubernetes" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-<img align="left" alt="Dotnetcore" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-<img align="left" alt="Csharp" style="padding-right: 10px;" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="left" alt="Nignx" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
-<img align="left" alt="Rabbitmq" style="padding-right: 10px;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg">
-<br/>
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+<table>
+<tr><td align="center" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap&perline=5&theme=dark" />
+
+</td><td align="center" width="50%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,python&perline=5&theme=dark" />
+
+</td></tr>
+<tr><td align="center" width="50%">
+
+**Database & Messaging**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,rabbitmq&perline=4&theme=dark" />
+
+</td><td align="center" width="50%">
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,gitlab,jest&perline=3&theme=dark" />
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevViking-Persike&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevViking-Persike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevViking-Persike&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD"/>
+</div>
+
 <br/>
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevViking-Persike&custom_title=Contribution%20Graph&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area_color=70A5FD&area=true&hide_border=true" width="95%"/>
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=DevViking-Persike&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevViking-Persike&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Conecte-se comigo
 
-</p>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-persike-78515b71/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyViC3FUfN-AwCEwrFLUNqw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vcpersike/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qzV7fBpK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcpersike@gmail.com)
 
+</div>
 
+---
+
+<div align="center">
+
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer"/>
+
+</div>
