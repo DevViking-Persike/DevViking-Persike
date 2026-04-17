@@ -24,11 +24,17 @@ const victor: Developer = {
     role: "Full Cycle Developer",
     company: "Gamboa Solutions",
     stack: {
-        frontend: ["Angular", "React", "Next.js", "TypeScript", "Maui/Blazor"],
-        backend: [".NET Core", "Node.js", "NestJS", "Python"],
-        database: ["MySQL", "PostgreSQL", "MongoDB"],
+        frontend: ["Angular", "React", "Next.js", "TypeScript", "Svelte", "Maui/Blazor"],
+        backend: [".NET Core", "Node.js", "NestJS", "Python", "Go", "Rust"],
+        database: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server", "Redis", "Qdrant"],
         devOps: ["Docker", "Kubernetes", "Nginx", "CI/CD"],
         messaging: ["RabbitMQ"],
+    observability: {
+        metrics: ["Prometheus", "Grafana"],
+        logs: ["Loki"],
+        tracing: ["OpenTelemetry", "Tempo", "Jaeger"],
+        alerting: ["Alertmanager"]
+        }
     },
     currentFocus: "Arquitetura de software & AI/ML",
     funFact: "Viking por natureza, dev por paixao"
